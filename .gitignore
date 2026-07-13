@@ -1,0 +1,15 @@
+# Dataset
+Data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
