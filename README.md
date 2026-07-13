@@ -26,4 +26,8 @@ The notebook automatically detects the dataset inside the workspace:
 - Short conclusion for the next neural network assignment
 
 ## Note
+<<<<<<< HEAD
 No model is trained in this notebook. It only prepares the dataset and documents the findings needed for the assignment report.
+=======
+No model is trained in this notebook. It only prepares the dataset and documents the findings needed for the assignment report.
+>>>>>>> c0a7af4890 (Pr)
